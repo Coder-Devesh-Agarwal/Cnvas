@@ -5,6 +5,7 @@ h1 {
   padding: 1% 20% 1% 22%;
   margin-top: 0%;
   border: 0px solid #2c3e50;
+  border-bottom: 4px solid #061524;
 }
 #power {
   font-size: 30px;
@@ -15,20 +16,35 @@ h1 {
   font-size: 25px;
 }
 .guess {
-  border: 5px solid #2c3e50;
+  border: 2px solid #2c3e50;
   margin-left: 5px;
 }
 .check {
-  border: 5px solid #2c3e50;
+  border: 2px solid #2c3e50;
   font-size: 20px;
-}
-.colo {
-  border: 5px solid #2c3e50;
-  float: right;
-  margin-right: 5px;
 }
 .chec {
   float: right;
   font-size: 20px;
-  border: 5px solid #2c3e50;
+  margin-right: 5px;
+  border: 2px solid #2c3e50;
+}
+.colo {
+  border: 2px solid #2c3e50;
+  float: right;
+  margin-right: 3px;
+  margin-bottom: 0px;
+}
+
+.Eraser {
+  border: 3px solid #2c3e50;
+  font-size: 15px;
+  margin-left: 29%;
+  margin-bottom: 5px;
+}
+.pen {
+  border: 3px solid #2c3e50;
+  font-size: 15px;
+  margin-left: 5px;
+  margin-bottom: 5px;
 }
